@@ -6,7 +6,7 @@ Anaelle website
 </head>
 
 <body>
-<h1> Balise un titre
+<h1> Balise un titre en pllus gros
 </h1>
 <p> Balise début de paragraphe 
 rsedtrfytguyhuj
